@@ -1,7 +1,7 @@
 # Installation
 
 ```
-git clone https://github.com/ErwanDouaille/gse-shader.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/Hello1024/gse-shader.git ~/.local/share/gnome-shell/extensions/
 ```
 Change metadata version, depending of you current gnome-shell version:
 ```
